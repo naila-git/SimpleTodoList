@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+    <string name="button">Button</string>
+    <string name="string_button" />
+</resources>
